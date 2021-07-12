@@ -12,7 +12,7 @@
     "dev": "vue-cli-service serve --port 80"
   },
   "dependencies": {
-    "@sentry/browser": "^6.8.0",
+    "@sentry/browser": "^6.9.0",
     "@sentry/integrations": "^6.5.1",
     "@vue/cli": "^4.5.13",
     "core-js": "^3.14.0",
